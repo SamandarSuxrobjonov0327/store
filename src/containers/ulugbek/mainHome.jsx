@@ -5,6 +5,9 @@ const MainHome = () => {
     <div>
       <h1>hello world</h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis porro laudantium voluptatem tempore est, excepturi facilis, vitae eligendi accusamus temporibus enim sequi ducimus. Doloribus praesentium modi possimus officiis provident ratione.</p>
+      <div>
+        salom
+      </div>
     </div>
   )
 }
