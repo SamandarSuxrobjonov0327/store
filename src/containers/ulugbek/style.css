@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.title .img img{
+    width: 300px;
+}
+.contanier{
+    background-color: #233000;
+    color: white;
+    width: 100%;
+    height: 170vh;
+}
+.contanier .text h1{
+    font-size: 100px;
+}
+.rasmlar3 img{
+    width: 120px;
+    margin-left: 2rem;
+
+}
+.rasmlar3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4rem;
+}
+
+.card img{
+    width: 400px;
+}
+.card p{
+    width: 80%;
+    margin-top: 3rem;
+}
+.card1 p{
+    width: 60%;
+    /* margin-top: 3rem; */
+}
+.card1 img{
+    width: 300px;
+    margin-top: 2rem;
+}
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 10rem;
+
+}
+.text1{
+    width: 50%;
+    margin-left: 15rem;
+    margin-top: 5rem;
+
+}
+.text1 h1{
+    font-size: 90px;
+}
+.yozuvlar img{
+    width: 400px;
+}
+.yozuv1{
+    width: 400px;
+    margin-top: 4rem;
+}
+.yozuv1 h3{
+    text-align: end;
+
+}
+.yozuvlar{
+    display: grid;
+    grid-template-columns: auto auto ;
+    align-items: center;
+    justify-content: space-evenly; 
+}
+.yozuv1 p{
+    margin-top: 3rem;
+}
+
+.icons{
+    width: 100%;
+    height: 70vh;
+    background-color: #EBF0E4;
+    margin-top: 5rem;
+    display: flex;
+    align-items: center;
+    padding-top: 5rem;
+
+}
+.icons img{
+    width: 500px;
+    margin-left: 5rem;
+}
+.icons p{
+    width: 80%;
+}
+.matn{
+    margin-left: 30rem;
+}
+.baliq{
+    text-align: center;
+    width: 30%;
+}
+.baliq img{
+    width: 190px;
+}
+.baliqlar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 10rem;
+}
+.sanjar img{
+    width: 450px;
+}
+.user img{
+    width: 70px;
+}
+.user{
+    display: flex;
+    align-items: center;
+
+}
+.user p{
+    font-size: 10px;
+    margin-left: 2rem;
+}
+.sanjar button {
+    display: flex;
+    align-items: center;
+    width: 70%;
+    border: none;
+    background-color: white;
+    margin-top: 3rem;
+}
+.sanjar .p{
+    margin-top: 1rem;
+}
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5rem;
+}
+.salom{
+    text-align: center;
+
+}
+.salom h1{
+    font-size: 70px;
+}
+.inputlar div{
+    width: 20%;
+    height: 7vh;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    padding-left: 3rem;
+}
+.inputlar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+}
+.menular button{
+    width: 20%;
+    text-align: center;
+    height: 7vh;
+    background-color: #233000;
+    border: none;
+    color: white;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-left: 40%;
+    margin-top: 5rem;
+}
+.menular{
+    margin-top: 10rem;
+}
+.ullar{
+    text-align: center;
+}
+.ullar h1{
+    font-size: 80px;
+}
+.energi{
+    margin-top: 10rem;
+}
+.images img{
+    width: 400px;
+    margin-left: 5rem;
+    margin-top: 5rem;
+}
+.lorem h3{
+    width: 40%;
+    margin-top: 4rem;
+    margin-left: 10rem;
+}
+.ava{
+    display: flex;
+    align-items: center;
+}
+.ava img{
+    width: 100px;
+}
+.nali{
+    transform: rotate(180deg);
+}
+.belgilar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 20%;
+}
+.avatar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5rem;
+    padding: 0 10rem;
+}
